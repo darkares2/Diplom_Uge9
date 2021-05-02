@@ -1,0 +1,16 @@
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\obj\Debug\netcoreapp3.1\AmqpReceiver.csprojAssemblyReference.cache
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\obj\Debug\netcoreapp3.1\AmqpReceiver.AssemblyInfoInputs.cache
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\obj\Debug\netcoreapp3.1\AmqpReceiver.AssemblyInfo.cs
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\obj\Debug\netcoreapp3.1\AmqpReceiver.csproj.CoreCompileInputs.cache
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\bin\Debug\netcoreapp3.1\AmqpReceiver.exe
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\bin\Debug\netcoreapp3.1\AmqpReceiver.deps.json
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\bin\Debug\netcoreapp3.1\AmqpReceiver.runtimeconfig.json
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\bin\Debug\netcoreapp3.1\AmqpReceiver.runtimeconfig.dev.json
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\bin\Debug\netcoreapp3.1\AmqpReceiver.dll
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\bin\Debug\netcoreapp3.1\AmqpReceiver.pdb
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\obj\Debug\netcoreapp3.1\AmqpReceiver.csproj.CopyComplete
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\obj\Debug\netcoreapp3.1\AmqpReceiver.dll
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\obj\Debug\netcoreapp3.1\AmqpReceiver.pdb
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\AmqpReceiver\obj\Debug\netcoreapp3.1\AmqpReceiver.genruntimeconfig.cache

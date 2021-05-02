@@ -1,0 +1,7 @@
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQReceiver\bin\Debug\MsMQReceiver.exe.config
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQReceiver\bin\Debug\MsMQReceiver.exe
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQReceiver\bin\Debug\MsMQReceiver.pdb
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQReceiver\obj\Debug\MsMQReceiver.csprojAssemblyReference.cache
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQReceiver\obj\Debug\MsMQReceiver.csproj.CoreCompileInputs.cache
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQReceiver\obj\Debug\MsMQReceiver.exe
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQReceiver\obj\Debug\MsMQReceiver.pdb

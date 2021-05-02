@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IMgxi2qN23A3Y1JwEZPL7rbX/800eMSh18djGiNEpKPqi38ffaLLzYtMItuKiT5aQIeV1Qz7GsFRhfbuF3idDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rasputin\\source\\repos\\Diplom_Uge9_Performance\\AmqpReceiver\\AmqpReceiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rasputin\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\rasputin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\rasputin\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

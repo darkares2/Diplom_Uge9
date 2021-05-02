@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmqpSender", "AmqpSender\AmqpSender.csproj", "{1A36B021-5724-4AE0-B727-A3848AB15973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsMQSender", "MsMQSender\MsMQSender.csproj", "{D17BF4D8-F77E-4D1C-83BA-45151EBFC69D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroMQSender", "ZeroMQSender\ZeroMQSender.csproj", "{AF37AFEA-85DE-4A25-A1E8-12A123B9148C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmqpReceiver", "AmqpReceiver\AmqpReceiver.csproj", "{9EC88CBB-B785-4E39-9B40-6E5380EB7146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsMQReceiver", "MsMQReceiver\MsMQReceiver.csproj", "{A11985CD-7F0F-42FA-AF75-D62ACF96993C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroMQReceiver", "ZeroMQReceiver\ZeroMQReceiver.csproj", "{DABEA955-D6BE-4D7D-9451-9042B6934A6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FDE3899A-0395-483C-8633-792BE577FA70}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A36B021-5724-4AE0-B727-A3848AB15973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A36B021-5724-4AE0-B727-A3848AB15973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A36B021-5724-4AE0-B727-A3848AB15973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A36B021-5724-4AE0-B727-A3848AB15973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17BF4D8-F77E-4D1C-83BA-45151EBFC69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17BF4D8-F77E-4D1C-83BA-45151EBFC69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17BF4D8-F77E-4D1C-83BA-45151EBFC69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17BF4D8-F77E-4D1C-83BA-45151EBFC69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF37AFEA-85DE-4A25-A1E8-12A123B9148C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF37AFEA-85DE-4A25-A1E8-12A123B9148C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF37AFEA-85DE-4A25-A1E8-12A123B9148C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF37AFEA-85DE-4A25-A1E8-12A123B9148C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC88CBB-B785-4E39-9B40-6E5380EB7146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC88CBB-B785-4E39-9B40-6E5380EB7146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC88CBB-B785-4E39-9B40-6E5380EB7146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC88CBB-B785-4E39-9B40-6E5380EB7146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11985CD-7F0F-42FA-AF75-D62ACF96993C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11985CD-7F0F-42FA-AF75-D62ACF96993C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11985CD-7F0F-42FA-AF75-D62ACF96993C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11985CD-7F0F-42FA-AF75-D62ACF96993C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABEA955-D6BE-4D7D-9451-9042B6934A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABEA955-D6BE-4D7D-9451-9042B6934A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABEA955-D6BE-4D7D-9451-9042B6934A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABEA955-D6BE-4D7D-9451-9042B6934A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A669F436-C3E3-4027-BA89-2F5F842D7313}
+	EndGlobalSection
+EndGlobal

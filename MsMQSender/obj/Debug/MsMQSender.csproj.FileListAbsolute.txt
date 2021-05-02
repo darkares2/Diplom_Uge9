@@ -1,0 +1,7 @@
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQSender\bin\Debug\MsMQSender.exe.config
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQSender\bin\Debug\MsMQSender.exe
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQSender\bin\Debug\MsMQSender.pdb
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQSender\obj\Debug\MsMQSender.csprojAssemblyReference.cache
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQSender\obj\Debug\MsMQSender.csproj.CoreCompileInputs.cache
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQSender\obj\Debug\MsMQSender.exe
+C:\Users\rasputin\source\repos\Diplom_Uge9_Performance\MsMQSender\obj\Debug\MsMQSender.pdb
